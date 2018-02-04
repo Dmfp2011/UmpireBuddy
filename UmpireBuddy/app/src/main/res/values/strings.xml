@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Umpire Buddy</string>
+    <string name="Ball">Ball: </string>
+    <string name="Strike">Strike: </string>
+    <string name="BallBtn">Ball</string>
+    <string name="StrikeBtn">Strike</string>
+    <string name="action_settings">Action Settings</string>
+    <string name="Out_Message">You Are Out!</string>
+    <string name="Ball_Message">Walk!</string>
+    <string name="youre_out">You\'re OUT!</string>
+    <string name="you_walk">WALK!</string>
+    <string name="total_outs_0">Total outs:  0</string>
+    <string name="total_outs_int">TotalOutsInt</string>
+    <string name="reset">Reset</string>
+    <string name="about">About</string>
+    <string name="creator">Umpire Buddy created by Dylan Pembrook founder of PemTech</string>
+    <string name="back">Back</string>
+</resources>
